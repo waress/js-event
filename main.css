@@ -3,3 +3,7 @@ body {
   color: #666;
   padding: 0 20%;
 }
+
+.hide {
+  display: none;
+}
